@@ -173,7 +173,7 @@ messages:
 
 ## 🔗 **Links**
 
-- **Source Code:** [GitHub Repository](https://github.com/TxTConsole/WebConsole/tree/main)
+- **Source Code:** [GitHub Repository](https://github.com/TxTConsole/WebConsole)
 - **Report Issues / Suggestions:** Discord — @txt.console
 
 ---
