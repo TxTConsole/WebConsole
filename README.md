@@ -8,7 +8,6 @@ Say goodbye to SSH or RDP just to run a simple command or check the console. Wit
 
 **[Download Plugin SpigotMC](https://www.spigotmc.org/resources/webconsole.133712/)**
 **[Russian Version Plugin](https://github.com/TxTConsole/WebConsole-RU)**
-**[Download Plugin SpigotRU](https://spigotmc.ru/resources/webconsole.5257/)**
 
 ---
 
