@@ -237,7 +237,6 @@ If you find a bug or have a suggestion:
 
 If you find WebConsole useful, you can:
 - Leave a review on SpigotMC
-- Leave a review on SpigotRU
 - Star the repository on GitHub
 - Share with other server administrators
 
